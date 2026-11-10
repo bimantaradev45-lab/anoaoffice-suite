@@ -44,7 +44,7 @@ Anoa Office Suite menyatukan dokumen anak (seperti Wordcraft dan Gridcraft) ke d
 
 | **Wordcraft Document Tab + AI Assistant** | **Gridcraft Spreadsheet Tab + AI Assistant** |
 |:---:|:---:|
-| ![Wordcraft Tab](blank_document.jpg) | ![Gridcraft Tab](gridcraft_tab.jpg) |
+| ![Wordcraft Tab](blank_document.png) | ![Gridcraft Tab](gridcraft_tab.png) |
 | *Penyusunan naskah & penulisan otomatis dari AI ke lembar dokumen* | *Olah data tabel, rumus spreadsheet, dan kalkulasi otomatis* |
 
 ---
