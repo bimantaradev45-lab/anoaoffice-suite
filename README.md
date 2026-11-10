@@ -34,7 +34,7 @@ Dilengkapi dengan **Anoa AI Assistant** yang tertanam langsung (*embedded native
 ### 1. Home Dashboard & Manajemen Berkas
 Tampilan beranda yang bersih, modern, dan intuitif. Memuat shortcut cepat ke seluruh aplikasi, daftar dokumen terkini (*Recent Files*), dokumen berbintang (*Starred*), serta status sinkronisasi Google Drive Cloud.
 
-![Anoa Office Home Screen](docs/images/home_screen.png)
+![Anoa Office Home Screen](desktop_homescreen.png)
 
 ---
 
@@ -44,7 +44,7 @@ Anoa Office Suite menyatukan dokumen anak (seperti Wordcraft dan Gridcraft) ke d
 
 | **Wordcraft Document Tab + AI Assistant** | **Gridcraft Spreadsheet Tab + AI Assistant** |
 |:---:|:---:|
-| ![Wordcraft Tab](docs/images/wordcraft_tab.jpg) | ![Gridcraft Tab](docs/images/gridcraft_tab.jpg) |
+| ![Wordcraft Tab](blank_document.jpg) | ![Gridcraft Tab](gridcraft_tab.jpg) |
 | *Penyusunan naskah & penulisan otomatis dari AI ke lembar dokumen* | *Olah data tabel, rumus spreadsheet, dan kalkulasi otomatis* |
 
 ---
@@ -52,7 +52,7 @@ Anoa Office Suite menyatukan dokumen anak (seperti Wordcraft dan Gridcraft) ke d
 ### 3. Tanya AI — Fullpage Workspace
 Mode layar penuh (*Fullpage Chat*) untuk diskusi panjang, konsultasi strategi, riset ide naskah, atau pembuatan draft lengkap sebelum diekspor ke format dokumen pilihan Anda.
 
-![Tanya AI Fullpage Workspace](docs/images/fullpage_ai.jpg)
+![Tanya AI Fullpage Workspace](fullpage_ai.jpg)
 
 ---
 
