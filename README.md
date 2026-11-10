@@ -19,7 +19,7 @@
 
 ---
 
-## 📖 Tentang Anoa Office Suite
+## Tentang Anoa Office Suite
 
 **Anoa Office Suite** adalah rangkaian aplikasi perkantoran masa depan yang dirancang dari nol menggunakan bahasa pemrograman **Rust** untuk menghadirkan performa maksimal, konsumsi memori sangat hemat, dan kecepatan peluncuran instan (*zero-lag startup*). Sedangkan untuk Paket Office adalah port dari project ArtCraft yang masih dalam pengembangan. Dengan menambahkan fitur **Markdown** dan **AI Assistant**.
 
@@ -29,7 +29,7 @@ Dilengkapi dengan **Anoa AI Assistant** yang tertanam langsung (*embedded native
 
 ---
 
-## 📸 Tangkapan Layar (Screenshots)
+## Tangkapan Layar (Screenshots)
 
 ### 1. Home Dashboard & Manajemen Berkas
 Tampilan beranda yang bersih, modern, dan intuitif. Memuat shortcut cepat ke seluruh aplikasi, daftar dokumen terkini (*Recent Files*), dokumen berbintang (*Starred*), serta status sinkronisasi Google Drive Cloud.
@@ -56,7 +56,7 @@ Mode layar penuh (*Fullpage Chat*) untuk diskusi panjang, konsultasi strategi, r
 
 ---
 
-## 🚀 Aplikasi & Modul Utama
+## Aplikasi & Modul Utama
 
 Anoa Office Suite menghadirkan 5 modul aplikasi utama yang siap menangani seluruh kebutuhan produktivitas:
 
@@ -75,35 +75,35 @@ Anoa Office Suite menghadirkan 5 modul aplikasi utama yang siap menangani seluru
 
 ---
 
-## ✨ Fitur Unggulan & Kelebihan
+## Fitur Unggulan & Kelebihan
 
-### 🤖 1. Asisten AI Terintegrasi (Zero-Delay Bridge)
+### 1. Asisten AI Terintegrasi (Zero-Delay Bridge)
 - **Komunikasi Antar-Proses Tanpa Jeda**: Hasil generasi AI (seperti draft naskah Word atau tabel spreadsheet) dapat disuntikkan seketika ke lembar kerja aktif cukup dengan satu klik tombol (**Isi ke Word** / **Isi ke Grid**).
 - **Format Markdown Manusiawi**: Tampilan balasan chat menggunakan perender Markdown cerdas yang mendukung tabel visual dinamis (*alternating rows*, baris total ber-highlight, dan tombol salin TSV), teks tebal/miring, dan blok kutipan.
 - **Penyimpanan Serbaguna**: Salin teks mentah (*Copy*) atau simpan percakapan langsung ke format **DOCX**, **Markdown (.md)**, atau **Teks Biasa (.txt)**.
 - **Dukungan Multi-Model**: Terkoneksi otomatis dengan Google Gemini (Gemini 2.5 Flash sebagai default responsif, Gemini Latest, dsb.).
 
-### 🔐 2. Sistem Template Prompt Terenkripsi & Prompt Maker
+### 2. Sistem Template Prompt Terenkripsi & Prompt Maker
 - **Template Siap Pakai**: Pengguna dapat mengimpor paket template prompt siap pakai untuk mempercepat pembuatan surat resmi, analisa anggaran, atau koding formula.
 - **Keamanan Berkas**: Template prompt disimpan dalam format biner terenkripsi khusus (`ANOAPROT`) dengan *XOR keystream dynamic cipher* dan *checksum verification* agar instruksi rahasia/organisasi tidak dapat dibaca bebas.
 - **Anoa Prompt Maker (`prompt-maker.exe`)**: Aplikasi mandiri berdesain modern untuk menyusun, mengelompokkan kategori, dan mengenkripsi paket prompt sebelum dibagikan ke pengguna lain.
 
-### ⚡ 3. Performa Native & Stabilitas Tinggi (Rust Powered)
+### 3. Performa Native & Stabilitas Tinggi (Rust Powered)
 - **Isolasi Proses**: Setiap modul dokumen berjalan di proses Windows Win32 terpisah yang di-*embed* ke dalam tab container host. Jika salah satu dokumen anak mengalami kendala, aplikasi utama dan tab dokumen lainnya tetap aman dan tidak akan *crash*.
 - **Zero-Delay Focus Handover**: Perpindahan fokus keyboard dan kursor antara textarea Chat AI dan lembar dokumen berlangsung instan tanpa *stutter* atau *message-queue deadlock*.
 - **Hemat Sumber Daya**: Dibangun tanpa runtime web/browser (bukan Electron), menjamin penggunaan RAM yang sangat rendah dan baterai laptop yang lebih hemat.
 
-### ☁️ 4. Google Drive Cloud Engine Nyata
+### 4. Google Drive Cloud Engine Nyata
 - Terintegrasi langsung dengan Google Accounts Discovery dan Google Drive REST API resmi.
 - Sinkronisasi dokumen aktif langsung ke direktori penyimpanan cloud pengguna.
 
-### 🔤 5. Tipografi & Ikon Vektor Lengkap (Offline Ready)
+### 5. Tipografi & Ikon Vektor Lengkap (Offline Ready)
 - Seluruh 28 varian font keluarga Aptos diintegrasikan dan di-embed ke dalam biner.
 - Antarmuka 100% menggunakan ikon vektor offline **Font Awesome** (`fa-solid` & `fa-regular`), menghasilkan tampilan yang tajam di layar HiDPI dan bebas dari emoji kartun bawaan OS.
 
 ---
 
-## 🛠️ Arsitektur Proyek
+## Arsitektur Proyek
 
 Struktur direktori kerja repositori Anoa Office Suite:
 
@@ -130,7 +130,7 @@ AnoaOfficeSuite/
 
 ---
 
-## 📦 Kompilasi & Menjalankan Aplikasi
+## Kompilasi & Menjalankan Aplikasi
 
 ### Prasyarat
 - Sistem Operasi: **Windows 10 / 11 (64-bit)**
@@ -161,7 +161,7 @@ AnoaOfficeSuite/
 
 ---
 
-## 💖 Dukung Pengembangan & Donasi
+## Dukung Pengembangan & Donasi
 
 Anoa Office Suite dikembangkan dengan dedikasi tinggi untuk menghadirkan alternatif aplikasi perkantoran yang cepat, independen, modern, dan bebas beban bagi seluruh pengguna.
 
@@ -173,7 +173,7 @@ Setiap bentuk dukungan, masukan, dan donasi sangat berarti bagi penyempurnaan fi
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 Hak Cipta © 2026 **Nur Sahid** & Tim Pengembang Anoa Office Suite. Seluruh hak cipta dilindungi undang-undang.
 
