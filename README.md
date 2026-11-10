@@ -1,7 +1,7 @@
 # Anoa Office Suite
 
 <p align="center">
-  <img src="assets/anoa_office_logo.png" alt="Anoa Office Suite Logo" width="160">
+  <img src="anoa_office_logo.png" alt="Anoa Office Suite Logo" width="160">
 </p>
 
 <p align="center">
